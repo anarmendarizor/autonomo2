@@ -1,2 +1,6 @@
 # autonomo2
-Juego de la serpiente
+Este proyecto corresponde a la estructura inicial de un juego Snake en consola, desarrollado en Python. El programa implementa un menú interactivo que permite al usuario iniciar el juego, consultar las instrucciones, ver los créditos o salir del programa. Por el momento, el juego Snake no está completamente desarrollado, ya que la opción de iniciar el juego funciona como un placeholder para futuras implementaciones.
+
+El código fue desarrollado utilizando Spyder en su versión más reciente, haciendo uso de librerías estándar como os para interactuar con el sistema operativo y limpiar la pantalla de la consola, y time para pausar la ejecución del programa y permitir una mejor experiencia de lectura al usuario. La limpieza de pantalla se adapta automáticamente al sistema operativo en el que se ejecute el programa.
+
+La estructura del programa está organizada mediante funciones, lo que facilita la comprensión, el mantenimiento y la reutilización del código. Se emplean ciclos repetitivos y estructuras condicionales para controlar la navegación del menú y validar las opciones ingresadas por el usuario. Este proyecto tiene como objetivo principal reforzar la lógica de programación, el uso de funciones y la interacción con el usuario en programas de consola, sirviendo como base para el desarrollo completo del juego Snake en el futuro.
